@@ -17,3 +17,6 @@ The following are the findings of the business intelligence report's analysis of
 ## •	A greater emphasis should be made on senior-level pay, which are significantly lower than the industry average.
 ## •	Employees who can obtain a PhD to do so since it raises the average income and allows for better compensation discussions.
 ## •	Companies should increase the rate at which average salaries grow, as it has been discovered that the most significant increase in average salary occurs after ten years of service.
+
+
+![kpi1](https://user-images.githubusercontent.com/22597020/153095418-82fe0de2-89cc-4fb5-a6f7-976f79fb00b7.JPG)
