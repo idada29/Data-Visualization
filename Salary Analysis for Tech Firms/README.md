@@ -3,13 +3,13 @@ This report examines industry standards for salaries at various career levels, r
 
 ## Findings and Conclusions – 
 The following are the findings of the business intelligence report's analysis of the above-mentioned business questions:
-•	Most paid Entry level jobs locations are Google in Fremont USA with average earnings of $190000 USD, Amazon in Berkeley USA  with average earnings of $180000 USD, Facebook in Burlingame USA with average earnings of $170500 USD, Microsoft in Zurich Switzerland with average earnings of $151500 USD.
-•	Across the four companies, 59.40% of total employees earn more than the average income for their position.
-•	With an average salary of $139238.17 USD, software engineers are the most paid of the five races. Also, across the four organisations, employees who identify with two or more races receive higher average earnings.
-•	For job roles such as software engineer and data scientist, the minimum number of years for average years of experience is 3.57 years and 3.63 years, respectively.
-•	Within each of the four firms, there is a high percentage of employees who have been with the company for 25 to 30 years. As a result, this range has the highest average salary of all the career status categories.
-•	For employees with a PhD, the average salary is more likely to increase by approximately $22000 USD. 
-•	The greatest contributor to increased average salary is Senior career position, which raises the average income by more than $72000 USD, followed by a range of years inside the company of at least 10-15 years, which raises the average salary by $39.27k. The average income for a Software engineer manager is $33.55k USD higher than the average salary for others. Furthermore, if the company is Facebook, the average income is likely to increase by $26,000 USD. 
+# •	Most paid Entry level jobs locations are Google in Fremont USA with average earnings of $190000 USD, Amazon in Berkeley USA  with average earnings of $180000 USD, Facebook in Burlingame USA with average earnings of $170500 USD, Microsoft in Zurich Switzerland with average earnings of $151500 USD.
+# •	Across the four companies, 59.40% of total employees earn more than the average income for their position.
+# •	With an average salary of $139238.17 USD, software engineers are the most paid of the five races. Also, across the four organisations, employees who identify with two or more races receive higher average earnings.
+# •	For job roles such as software engineer and data scientist, the minimum number of years for average years of experience is 3.57 years and 3.63 years, respectively.
+# •	Within each of the four firms, there is a high percentage of employees who have been with the company for 25 to 30 years. As a result, this range has the highest average salary of all the career status categories.
+# •	For employees with a PhD, the average salary is more likely to increase by approximately $22000 USD. 
+# •	The greatest contributor to increased average salary is Senior career position, which raises the average income by more than $72000 USD, followed by a range of years inside the company of at least 10-15 years, which raises the average salary by $39.27k. The average income for a Software engineer manager is $33.55k USD higher than the average salary for others. Furthermore, if the company is Facebook, the average income is likely to increase by $26,000 USD. 
 
 ## Recommendations
 •	The average incomes in Burma and Giza should be improved over time, given they are among the lowest-paid countries.
