@@ -1,4 +1,6 @@
-let
+let.
+
+
     Source = Csv.Document(File.Contents("C:\Users\dadai\Documents\All Projects\Power BI Project\Housing Project - New Y\nyc-rolling-sales.csv\New York Housing Sales.csv"),[Delimiter=",", Columns=22, Encoding=1252, QuoteStyle=QuoteStyle.Csv]),
     #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
     #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"BOROUGH#(lf)", Int64.Type}, {"NEIGHBORHOOD#(lf)", type text}, {"BUILDING CLASS CATEGORY#(lf)", type text}, {"TAX CLASS AS OF FINAL ROLL 17/18", type text}, {"BLOCK#(lf)", Int64.Type}, {"LOT#(lf)", Int64.Type}, {"EASE-MENT#(lf)", type text}, {"BUILDING CLASS AS OF FINAL ROLL 17/18", type text}, {"ADDRESS#(lf)", type text}, {"APARTMENT NUMBER#(lf)", type text}, {"ZIP CODE#(lf)", Int64.Type}, {"RESIDENTIAL UNITS#(lf)", Int64.Type}, {"COMMERCIAL UNITS#(lf)", Int64.Type}, {"TOTAL UNITS#(lf)", Int64.Type}, {"LAND SQUARE FEET#(lf)", Int64.Type}, {"GROSS SQUARE FEET#(lf)", Int64.Type}, {"Year Built", Int64.Type}, {"TAX CLASS AT TIME OF SALE#(lf)", Int64.Type}, {"BUILDING CLASS AT TIME OF SALE#(lf)", type text}, {"Sale Price#(lf)", Int64.Type}, {"Date#(lf)", type date}, {"Borough Name", type text}}),
