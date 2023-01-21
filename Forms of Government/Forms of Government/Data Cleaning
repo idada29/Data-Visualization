@@ -1,0 +1,9 @@
+let.
+
+    Source = Excel.Workbook(File.Contents("C:\Users\dadai\Documents\All Projects\Power BI Project\Government Data.xlsx"), null, true),
+    #"Data Table_Sheet" = Source{[Item="Data Table",Kind="Sheet"]}[Data],
+    #"Promoted Headers" = Table.PromoteHeaders(#"Data Table_Sheet", [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Name", type text}, {"Abbreviations", type text}, {"Constitutional form", type text}, {"Head of state", type text}, {"Population", Int64.Type}, {"Continent", type text}, {"Subcontinents", type text}}),
+    #"Renamed Columns" = Table.RenameColumns(#"Changed Type",{{"Constitutional form", "Constitution"}})
+in
+    #"Renamed Columns"
