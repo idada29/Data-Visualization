@@ -1,6 +1,8 @@
 The data source for the following analysis is in: https://www.kaggle.com/datasets/jolenechen/datacosupplychaindataset
 
 The analysis process covered the following process:
+
+
     1. Data Preparation
        - Removing irrelevant data
        - Removed duplicates 
@@ -18,7 +20,7 @@ The analysis process covered the following process:
     
     
 
-    3. Dashboard UI/UX design: I used most Powerpoint to create SVG backgrounds to increase the efficiency of the dashboard and reduce redundant images or              shapes not in use for any analytics purpose rather than just designs.
+    3. Dashboard UI/UX design: I used most Powerpoint to create SVG backgrounds to increase the efficiency of the dashboard and reduce redundant images or shapes not in use for any analytics purpose rather than just designs.
     
     4. Generated business questions and made chooses on the visual selection to properly answer these questions
 
