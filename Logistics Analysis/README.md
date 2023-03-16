@@ -27,7 +27,13 @@ The analysis process covered the following process:
 
 
 
-    Excited to share the results of my latest project - a logistics dashboard for a retail firm handling an average of $11M in orders a year from its customers.
+
+
+
+
+
+
+Excited to share the results of my latest project - a logistics dashboard for a retail firm handling an average of $11M in orders a year from its customers.
 
 The findings gave me a clear picture of the payment preferences of customers, which will be a game-changer for the business's future strategies.
 
