@@ -4,12 +4,12 @@ The analysis process covered the following process:
 
 
     1. Data Preparation
-       - Removing irrelevant data
-       - Removed duplicates 
-       - Handled missing data
-       - Data type conversions 
-       - Validate data quality 
-       - Standardize data to make naming convention useful for shape maps
+       - Removing irrelevant data - "Product Status", "Product Price", "Product Name", "Product Image", "Product Description", "Product Category Id", "Product  Card Id"
+       - Removed duplicates: This was needed to create unique keys to merge tables on.
+       - Handled missing data - replaced nulls and empty cells
+       - Data type conversions.
+       - Validate data quality to check for completeness of the data.
+       - Standardize data in "Order Country" to make naming convention useful for shape maps.
        
     2. Data Modelling: In this model I used star method as it best suits the data, having a single fact table and multiple dimension tables around it.
        I joined the tables based on primary keys and secondary keys.
@@ -27,7 +27,7 @@ The analysis process covered the following process:
 
 
 
-Excited to share the results of my latest project - a logistics dashboard for a retail firm handling an average of $11M in orders a year from its customers.
+    Excited to share the results of my latest project - a logistics dashboard for a retail firm handling an average of $11M in orders a year from its customers.
 
 The findings gave me a clear picture of the payment preferences of customers, which will be a game-changer for the business's future strategies.
 
