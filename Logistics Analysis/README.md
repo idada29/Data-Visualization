@@ -1,5 +1,22 @@
 The data source for the following analysis is in: https://www.kaggle.com/datasets/jolenechen/datacosupplychaindataset
 
+The analysis process covered the following process:
+    1. Data Preparation
+       - Removing irrelevant data
+       - Removed duplicates 
+       - Handled missing data
+       - Data type conversions 
+       - Validate data quality 
+       - Standardize data to make naming convention useful for shape maps
+       
+    2. Data Modelling: In this model I used star method as it best suits the data, having a single fact table and multiple dimension tables around it. I joined        the tables based on primary keys and secondary keys.
+    
+    ![BI model](https://user-images.githubusercontent.com/22597020/225587953-693ac4ac-fd77-4f5d-abcb-654e676b3b92.jpg)
+    
+
+    3. Dashboard UI/UX design: I used most Powerpoint to create SVG backgrounds to increase the efficiency of the dashboard and reduce redundant images or              shapes not in use for any analytics purpose rather than just designs.
+    
+    4. Generated business questions and made chooses on the visual selection to properly answer these questions
 
 
 
