@@ -9,7 +9,8 @@ The analysis process covered the following process:
        - Validate data quality 
        - Standardize data to make naming convention useful for shape maps
        
-    2. Data Modelling: In this model I used star method as it best suits the data, having a single fact table and multiple dimension tables around it. I joined        the tables based on primary keys and secondary keys.
+    2. Data Modelling: In this model I used star method as it best suits the data, having a single fact table and multiple dimension tables around it.
+       I joined the tables based on primary keys and secondary keys.
     
     
 ![BI model](https://user-images.githubusercontent.com/22597020/225587953-693ac4ac-fd77-4f5d-abcb-654e676b3b92.jpg)
