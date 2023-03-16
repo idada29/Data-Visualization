@@ -1,3 +1,8 @@
+The data source for the following analysis is in: https://www.kaggle.com/datasets/jolenechen/datacosupplychaindataset
+
+
+
+
 
 Excited to share the results of my latest project - a logistics dashboard for a retail firm handling an average of $11M in orders a year from its customers.
 
